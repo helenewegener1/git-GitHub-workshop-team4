@@ -1,0 +1,6 @@
+Prepare agarose solution in 1x TAE buffer. 
+Pour solution into a casting tray with a comb. 
+Let gel solidify. 
+Remove comb and load samples. 
+Run gel. 
+Stain and visualize.
