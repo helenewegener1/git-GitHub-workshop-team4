@@ -4,3 +4,4 @@ Let gel solidify.
 Remove comb and load samples. 
 Run gel. 
 Stain and visualize.
+Made by Mads Harder Møller
