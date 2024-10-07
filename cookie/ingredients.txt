@@ -3,3 +3,4 @@
 - butter
 - eggs
 - chocolate chips 
+- salt
